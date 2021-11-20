@@ -65,6 +65,6 @@
 </br>
 
 <div>
-  <img alt="GitHub Stats" align="top" width="67%" src="https://github-readme-stats.vercel.app/api?username=Pedramnili&theme=radical" />
+  <img alt="GitHub Stats" align="top" width="52%" src="https://github-readme-stats.vercel.app/api?username=Pedramnili&theme=radical" />
   <img alt="Top Language" align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedramnili&langs_count=5&theme=radical" />
 </div>
