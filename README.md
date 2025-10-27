@@ -1,29 +1,51 @@
-# Hi there, I'm Pedram 👋
+# 👋 Hi, I'm Pedram  
 
-I'm a passionate Front-End Developer focused on building responsive and dynamic user interfaces. I love creating intuitive and visually appealing web applications.
-
-## 🚀 Skills
-
-- **Languages**: JavaScript, TypeScript, HTML, CSS/SCSS
-- **Frameworks**: React, Next.js, Redux
-- **Tools**: Git, Webpack, ECharts, Figma
-- **Testing**: Jest, Cypress
-
-## 🌱 Currently Learning
-
-- Improving my skills in **Next.js** and experimenting with **Server-Side Rendering (SSR)**
-- Exploring advanced **i18n** solutions for web applications
-
-## 🔭 Current Projects
-
-- Building an interactive dashboard using **ECharts** for real-time data visualization
-- Working on a personal blog with **Next.js** and **TypeScript**
-
-## 📫 Get in Touch
-
-- **GitHub**: [YourGitHubProfile](https://github.com/Pedramnili)
-- **Email**: pedramnili@gmail.com
+A **Front-End Developer** passionate about building elegant, performant, and scalable user interfaces.  
+I enjoy bringing ideas to life through clean code, thoughtful design, and modern web technologies.
 
 ---
 
-*"Code is like humor. When you have to explain it, it’s bad."*
+## ⚙️ Tech Stack & Skills  
+
+**Languages:**  
+JavaScript · TypeScript · HTML · CSS / SCSS  
+
+**Frameworks & Libraries:**  
+React · Next.js · Redux Toolkit 
+
+**Tools & Workflow:**  
+Git · Webpack · ECharts · Figma · PNPM · Storybook  
+
+**Testing:**  
+Vitest  
+
+---
+
+## 🌱 Currently Learning  
+- Deep-diving into **Next.js SSR** and **data fetching patterns**  
+- Exploring scalable **i18n architecture** for multilingual web apps  
+- Experimenting with **React Query** and performance optimization  
+
+---
+
+## 🔭 Current Projects  
+- ⚡ Building an **interactive real-time dashboard** using *ECharts* and *TypeScript*  
+- ✍️ Developing a **personal blog** with *Next.js* and *MDX*  
+
+---
+
+## 💡 What I Care About  
+- **Type safety** and predictable state management  
+- Writing **component-driven** and **testable UIs**  
+- Creating **smooth user experiences** with minimal code complexity  
+
+---
+
+## 📫 Connect with Me  
+
+- **GitHub:** [Pedramnili](https://github.com/Pedramnili)  
+- **Email:** pedramnili@gmail.com  
+
+---
+
+> _“Code is like humor — when you have to explain it, it’s bad.”_
